@@ -1,0 +1,56 @@
+DROP SCHEMA
+CREATE SCHEMA
+SET
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+SET
+INSERT 0 8
+INSERT 0 3
+INSERT 0 4
+INSERT 0 7
+INSERT 0 4
+INSERT 0 2
+INSERT 0 10
+SET
+REVOKE
+GRANT
+CREATE VIEW
+CREATE VIEW
+ campaignid | individualsum | organizationsum 
+------------+---------------+-----------------
+          5 |           100 |             100
+          6 |           150 |              50
+          7 |               |             100
+(3 rows)
+
+DROP VIEW
+REVOKE
+GRANT
+CREATE VIEW
+CREATE VIEW
+CREATE VIEW
+CREATE VIEW
+ workerid |    email     
+----------+--------------
+        3 | 3@google.com
+(1 row)
+
+DROP VIEW
+REVOKE
+GRANT
+CREATE VIEW
+CREATE VIEW
+CREATE VIEW
+CREATE VIEW
+CREATE VIEW
+ id |   name   |    email     
+----+----------+--------------
+  7 | Max Vers | 7@google.com
+(1 row)
+
+DROP VIEW
